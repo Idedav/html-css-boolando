@@ -33,9 +33,19 @@ body{
     display: inline-block;
 }
 
+.type li a{
+    color: white;
+    text-decoration: none;
+}
+
 .logo img{
     width: 150px;
     flex-grow: 1;
+}
+
+.icon a{
+    color: white;
+    margin: 0px 3px;
 }
 
 /* MAIN */
